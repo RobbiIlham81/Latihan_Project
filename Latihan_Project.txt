@@ -1,2 +1,4 @@
 Membuat website untuk beelajar HTML, CSS, Javascript
 Latihan GIT
+Latihan lebih mendalam GIT dan Github
+
